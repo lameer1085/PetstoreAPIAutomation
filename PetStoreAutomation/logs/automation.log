@@ -1,0 +1,32 @@
+20:58:11.836 [main] INFO  api.test.userTestcase - *************** creating user ****************
+20:58:16.745 [main] INFO  api.test.userTestcase - *************** user is created ****************
+20:58:16.792 [main] INFO  api.test.userTestcase - *************** read user ****************
+20:58:18.446 [main] INFO  api.test.userTestcase - *************** user value readed ****************
+20:58:18.463 [main] INFO  api.test.userTestcase - *************** updating user ****************
+20:58:21.714 [main] INFO  api.test.userTestcase - ***************  user is updated ****************
+20:58:21.720 [main] INFO  api.test.userTestcase - *************** delete user ****************
+20:58:23.250 [main] INFO  api.test.userTestcase - ***************  user is deleted ****************
+18:57:17.764 [main] INFO  api.test.userTestcase2 - *************** creating user ****************
+18:57:22.504 [main] INFO  api.test.userTestcase2 - *************** user is created ****************
+18:57:22.511 [main] INFO  api.test.userTestcase2 - *************** read user ****************
+18:57:24.423 [main] INFO  api.test.userTestcase2 - *************** user value readed ****************
+18:57:24.427 [main] INFO  api.test.userTestcase2 - *************** updating user ****************
+18:57:28.236 [main] INFO  api.test.userTestcase2 - ***************  user is updated ****************
+18:57:28.241 [main] INFO  api.test.userTestcase2 - *************** delete user ****************
+18:57:30.353 [main] INFO  api.test.userTestcase2 - ***************  user is deleted ****************
+19:15:16.280 [main] INFO  api.test.userTestcase - *************** creating user ****************
+19:15:19.435 [main] INFO  api.test.userTestcase - *************** user is created ****************
+19:15:19.447 [main] INFO  api.test.userTestcase - *************** read user ****************
+19:15:20.773 [main] INFO  api.test.userTestcase - *************** user value readed ****************
+19:15:20.775 [main] INFO  api.test.userTestcase - *************** updating user ****************
+19:15:23.323 [main] INFO  api.test.userTestcase - ***************  user is updated ****************
+19:15:23.328 [main] INFO  api.test.userTestcase - *************** delete user ****************
+19:15:24.592 [main] INFO  api.test.userTestcase - ***************  user is deleted ****************
+18:25:01.925 [main] INFO  api.test.userTestcase - *************** creating user ****************
+18:25:05.009 [main] INFO  api.test.userTestcase - *************** user is created ****************
+18:25:05.016 [main] INFO  api.test.userTestcase - *************** read user ****************
+18:25:06.256 [main] INFO  api.test.userTestcase - *************** user value readed ****************
+18:25:06.262 [main] INFO  api.test.userTestcase - *************** updating user ****************
+18:25:08.672 [main] INFO  api.test.userTestcase - ***************  user is updated ****************
+18:25:08.685 [main] INFO  api.test.userTestcase - *************** delete user ****************
+18:25:09.986 [main] INFO  api.test.userTestcase - ***************  user is deleted ****************
